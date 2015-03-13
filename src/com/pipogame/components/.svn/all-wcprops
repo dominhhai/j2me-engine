@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/src/com/pipogame/components
+END
+ISprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/src/com/pipogame/components/ISprite.java
+END
+NumberSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/src/com/pipogame/components/NumberSprite.java
+END
+GameSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/src/com/pipogame/components/GameSprite.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29/trunk/src/com/pipogame/components/package-info.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/src/com/pipogame/components/Point.java
+END
+AbstractSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/src/com/pipogame/components/AbstractSprite.java
+END
+SortedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/src/com/pipogame/components/SortedList.java
+END
+Rect.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/src/com/pipogame/components/Rect.java
+END
+InitFromString.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/src/com/pipogame/components/InitFromString.java
+END
+IComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/src/com/pipogame/components/IComparable.java
+END

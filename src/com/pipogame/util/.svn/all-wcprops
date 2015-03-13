@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/35/trunk/src/com/pipogame/util
+END
+Dialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31/trunk/src/com/pipogame/util/Dialog.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/src/com/pipogame/util/ArrayUtils.java
+END
+TimeProcessMeasurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/src/com/pipogame/util/TimeProcessMeasurer.java
+END
+BlinkingText.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/src/com/pipogame/util/BlinkingText.java
+END
+MathExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/trunk/src/com/pipogame/util/MathExt.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/Page.java
+END
+GravityObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/33/trunk/src/com/pipogame/util/GravityObject.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/Util.java
+END
+fonts.pipo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/src/com/pipogame/util/fonts.pipo
+END
+SMSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/33/trunk/src/com/pipogame/util/SMSender.java
+END
+ImageTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/ImageTool.java
+END
+RichPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/RichPage.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/29/trunk/src/com/pipogame/util/package-info.java
+END
+Drawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32/trunk/src/com/pipogame/util/Drawer.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/18/trunk/src/com/pipogame/util/Queue.java
+END
+PFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/PFont.java
+END
+MessageBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/35/trunk/src/com/pipogame/util/MessageBox.java
+END
